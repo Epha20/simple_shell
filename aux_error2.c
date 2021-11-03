@@ -67,3 +67,4 @@ _strcat(error, "\0");
 free(ver_str);
 return (error);
 }
+
